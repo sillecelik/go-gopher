@@ -1,6 +1,8 @@
 # go-gopher
 [The Go Gopher](https://blog.golang.org/gopher) Amigurumi Pattern
 
+![The Go Gopher](/gopher_front_small.jpg)
+
 ## You will need:
 * **Yarn:** Turquoise *(aran)*, white, brown, black *(DK)*
 * **Crochet hooks:** 2,5 for body and ears; 2 or 2,25 for other details
