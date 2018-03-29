@@ -39,7 +39,7 @@ Put the safety eyes to the middle of the eyeballs.
 ```
 use aran yarn
 
-1. 6 in a magic circle	(6)
+1. 6 in a magic circle				(6)
 2. (inc)x6					(12)
 3. (sc, inc)x6					(18)
 4. (2 sc, inc)x6				(24)
