@@ -93,6 +93,7 @@ Sew the ears to the head (leaving around 9 rows from the top of the head).
 ## Mouth
 ```
 use brown
+
 1. 6 in a magic circle				(6)
 2. (inc)x6					(12)
 3. (sc, inc)x6					(18)
@@ -127,6 +128,7 @@ Sew the legs to the body.
 ## Tail
 ```
 use aran
+
 1. 4 in a magic circle				(4)
 2.-4. even					(4)
 fo, leave a long thread
