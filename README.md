@@ -1,5 +1,5 @@
 # The Go Gopher Amigurumi Pattern
-[The Go Gopher](https://blog.golang.org/gopher) is the The Go gopher is an iconic mascot of the Go programming language.
+[The Go Gopher](https://blog.golang.org/gopher) is the The Go gopher is an iconic mascot of the Go programming language and this is the Amigurumi pattern for it.
 
 ![The Go Gopher](/image/small/gopher_front.jpg)
 
