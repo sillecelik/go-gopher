@@ -3,11 +3,7 @@
 
 ![The Go Gopher](/image/small/gopher_front.jpg)
 
-[Amigurumi Pattern](pattern.md) is based on the [Gopher Vector](https://github.com/golang-samples/gopher-vector).
-
-![The Go Gopher](/image/small/gopher_front.jpg)
-
-[Pattern](pattern.md) is created by [Sille Celik](https://www.instagram.com/sille_handicraft/)
+[Amigurumi Pattern](pattern.md) is based on the [Gopher Vector](https://github.com/golang-samples/gopher-vector) and created by [Sille Celik](https://www.instagram.com/sille_handicraft/)
 
 If you want to buy a ready one, [visit my Amazon storefront](https://www.amazon.co.uk/handmade/sille).
 
