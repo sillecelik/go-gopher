@@ -1,7 +1,7 @@
 # go-gopher
 [The Go Gopher](https://blog.golang.org/gopher) Amigurumi Pattern
 
-![The Go Gopher](/gopher_front_small.jpg)
+![The Go Gopher](/image/small/gopher_front.jpg)
 
 ## You will need:
 * **Yarn:** Turquoise *(aran)*, white, brown, black *(DK)*
