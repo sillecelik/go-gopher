@@ -22,6 +22,9 @@ fo = finish off
 ```
 
 ## Eyeball
+
+![Eyeball](image/small/eyeball.jpg)
+
 ```
 make two, use white
 
@@ -35,8 +38,12 @@ fo, leave a long thread
 
 Put the safety eyes to the middle of the eyeballs.
 ```
+![Eyes](image/small/eyes.jpg)
 
 ## Body
+
+![Gopher Front](image/small/gopher_front.jpg)
+
 ```
 use aran yarn
 
@@ -59,9 +66,16 @@ use aran yarn
 31. 14 sc, inc, 26 sc, inc, 14 sc		(58)
 32. 15 sc, inc, 26 sc, inc, 15 sc		(60)
 
+```
+
+```
 Place the eyes leaving 13 rows empty from the top of the head. 
 If you wish to make bulging eyes, use a bit of the stuffing for the eyes.
+```
 
+![With Eyes](image/small/with_eyes.jpg)
+
+```
 33-53. even					(60)
 
 Start to stuff the body.
@@ -92,6 +106,8 @@ Sew the ears to the head (leaving around 9 rows from the top of the head).
 ```
 
 ## Mouth
+![Mouth](image/small/mouth.jpg)
+
 ```
 use brown
 
@@ -105,6 +121,8 @@ Embroider the upper part with black yarn.
 ```
 
 ## Teeth
+![Teeth](image/small/teeth.jpg)
+
 ```
 use white
 
@@ -115,6 +133,8 @@ Sew the teeth to the proper place, then sew the mouth to the place.
 ```
 
 ## Leg
+![Leg](image/small/legs_bottom.jpg)
+
 ```
 make 4, use brown
 
@@ -127,6 +147,8 @@ Sew the legs to the body.
 ```
 
 ## Tail
+![Tail](image/small/tail.jpg)
+
 ```
 use aran
 
