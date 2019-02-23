@@ -1,6 +1,6 @@
 # The Go Gopher Amigurumi Pattern
 
-![The Go Gopher](/image/small/gopher_front.jpg)
+![The Go Gopher](image/small/gopher_front.jpg)
 
 ## You will need:
 * **Yarn:** Turquoise *(aran)*, white, brown, black *(DK)*
