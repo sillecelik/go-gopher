@@ -98,7 +98,7 @@ Abmaschen, den Körper zunähen.
 
 1. 4 Maschen in einen Ring häkeln			(4)
 2. (zun)x4									(8)
-3. (2 FM)x4									(12)
+3. (FM, zun)x4									(12)
 4. eine FM in jede Masche häkeln			(12)
 abmaschen, dabei einen langen Faden übrig lassen
 
