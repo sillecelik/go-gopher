@@ -9,9 +9,10 @@ If you want to buy a ready one, [visit my Amazon storefront](https://www.amazon.
 
 ## Languages
 
-Pattern is currently available in English only. Feel free to translate and submit a PR.
+Pattern is currently available in English and German only. Feel free to translate and submit a PR.
 
 - [English](pattern.md)
+- [Deutsch / German](pattern_de.md)
 
 ## Contributions
 
