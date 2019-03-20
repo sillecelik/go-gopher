@@ -98,7 +98,7 @@ make two, use aran
 
 1. 4 in a magic circle				(4)
 2. (inc)x4					(8)
-3. (2 sc)x4					(12)
+3. (sc, inc)x4					(12)
 4. even						(12)
 fo, leave a long thread
 
