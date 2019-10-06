@@ -9,7 +9,7 @@ If you want to buy a ready one, [visit my Amazon storefront](https://www.amazon.
 
 ## Languages
 
-Pattern is currently available in English, German an Brazilian Portuguese. Feel free to translate and submit a PR.
+Pattern is currently available in English, German and Brazilian Portuguese. Feel free to translate and submit a PR.
 
 - [English](pattern.md)
 - [Deutsch / German](pattern_de.md)
