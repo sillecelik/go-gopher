@@ -15,6 +15,7 @@ Pattern is currently available in English, German and Spanish only. Feel free to
 - [English](pattern.md)
 - [Deutsch / German](pattern_de.md)
 - [Español / Spanish](pattern_es.md)
+- [Brazilian Portuguese / PT-BR](pattern_pt-br.md)
 
 ## Contributions
 
