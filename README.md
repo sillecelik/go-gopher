@@ -10,13 +10,14 @@ If you want to buy a ready one, [visit my Amazon storefront](https://www.amazon.
 
 ## Languages
 
-Pattern is currently available in English, German and Spanish only. Feel free to translate and submit a PR.
+Pattern is currently available in the languages below. Feel free to translate and submit a PR.
 
 - [English](pattern.md)
 - [Türkçe / Turkish](pattern_tr.md)
 - [Deutsch / German](pattern_de.md)
 - [Español / Spanish](pattern_es.md)
 - [Brazilian Portuguese / PT-BR](pattern_pt-br.md)
+- [日本語 / Japanese](pattern_jp.md)
 
 ## Contributions
 
