@@ -6,7 +6,7 @@
 
 [Amigurumi Pattern](pattern.md) is based on the [Gopher Vector](https://github.com/golang-samples/gopher-vector) and created by [Sille Celik](https://www.instagram.com/sille_handicraft/)
 
-If you want to buy a ready one, [visit my ETSY storefront](https://www.etsy.com/uk/shop/SilleHandicraftStore).
+If you want to buy a ready one, [visit my Etsy storefront](https://www.etsy.com/uk/shop/SilleHandicraftStore).
 
 ## Languages
 
