@@ -17,7 +17,8 @@ Pattern is currently available in the languages below. Feel free to translate an
 - [Deutsch / German](pattern_de.md)
 - [Español / Spanish](pattern_es.md)
 - [Brazilian Portuguese / PT-BR](pattern_pt-br.md)
-- [日本語 / Japanese](pattern_jp.md)
+- [日本語 / Japanese](pattern_jp.md)  
+- [RU / Русский](pattern_ru.md)
 
 ## Contributions
 
